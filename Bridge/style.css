@@ -78,6 +78,18 @@ h1, p {
     /*font-family: ;*/
 }
 
+.donateButton {
+    text-align:center;
+    height: 50px;
+    width: 200px;
+}
+
+.buttonContainer {
+    text-align:center;
+    display: flex;
+    justify-content: center;
+}
+
 h1 {
     color:rgb(165, 94, 82);
     font-size: 100px;
